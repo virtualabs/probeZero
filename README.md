@@ -10,4 +10,6 @@ Tracking devices and people
 ---------------------------
 
 I provide the code I used to fingerprint, classify and track devices. It is mainly based
-(again) on *Noble.js*. The android application is also available as an APK.
+(again) on *Noble.js*, in the *tracking-ble* folder.
+
+I also provide a signed APK in *tracking-android-app*, along with complete source code (Proof of Concept, may be dirty).
