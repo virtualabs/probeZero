@@ -1,0 +1,22 @@
+{
+  "name": "tracking-ble",
+  "version": "1.0.0",
+  "description": "Node.js tracking app for ProbeZero",
+  "main": "probe0.js",
+  "dependencies": {
+    "noble": "^1.6.0",
+    "async": "^2.0.0-rc.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ble",
+    "tracking",
+    "probe",
+    "zero"
+  ],
+  "author": "Damien Cauquil <damien.cauquil@digitalsecurity.fr>",
+  "license": "MIT"
+}
